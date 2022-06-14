@@ -1079,6 +1079,7 @@ header .mega-menu .links li a i {
 }
 .events .info {
 	flex: 1;
+	z-index: 1;
 }
 .events .info .time {
 	display: flex;
@@ -1128,6 +1129,7 @@ header .mega-menu .links li a i {
 .events .subscribe {
 	width: 100%;
 	margin-top: 50px;
+	z-index: 1;
 }
 .events .subscribe form {
 	display: flex;
